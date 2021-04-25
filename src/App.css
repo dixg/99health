@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  /* width: 50%; */
+  /* height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.thumbnail {
+  width: 20%;
+}
+li.drink {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 40px;
+}
+.logo {
+  /* height: 40%; */
+  width: 15%;
+}
